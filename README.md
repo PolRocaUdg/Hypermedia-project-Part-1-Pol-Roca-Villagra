@@ -1,6 +1,15 @@
 ## Project Analisis
 ### User Persona
+The type user who will see my website is someone who has to read a lot of CV in order to find a good candidate for a project they have in mind.
+This user quickly scans the sections in the website to identify specific keywords that fit with the necessities they need to fulfill their needs or that could upgrade already existing ones.
 ### Information Architecture
+In this Curriculum Vitae, there are 3 sections in which the informations is split: Header, Aside and Main. 3 sections are enough to help the information be easily identified by the area in which they are displayed, and aren't too many to make the information hard to tell at a glance. This will make searching for specific keywords easier for those who will see the webpage. Inside each sections, The content is organized vertically so that it feels the most natural and comfortable when reading in depth. 
+The Header is the section that the users will see first, therefore it has to feel lightweight and not very dense, that's why it contains important information (such as the name, photo, and the specialty) that can be told with few words. The aside section, contains information that fits better into a list format and can be condensed into fewer words and concrete keywords. Finally the main section, has content that is more dense and has to be read thoughtfully to see the full picture of the CV. 
+Both the main and aside section has dividers for each type of information the show. The aside uses divisor bars and the main uses filled boxes with the title of the sections, help even further to slightly break up the information inside each section
 ### Visual Design
+The website main color pallete uses primary 2 colors: a slightly greyish dark brown and a light beige. This colors give a cozy warm sensation that relaxes the gaze of those who are watching the webpage. This combination of colors also give a more mature and elegant aesthetic to the Curriculum Vitae that inspires professionality to those who are watching for potential candidates. The light beige color provides light to the webpage, and the dark greyish brown contrast gives a stable ground and weight to the page but without being to aggresive like pure black color would do. This overall gives a organic and natural envoironment that feels more realaxing. 
+Regarding to the font, the font chosen is "Faustina". This font is a serif type font because it feels more formal and gives more trust to those who read it, it also helps give the CV a more elegant style. The Faustina font was chosen specifically bevcause its serify is very subtle so that the letters are still easy to read while grating them some refinement.
 ### Figma hyperlink
 https://www.figma.com/design/TWvMewPnHP7RVL9sRfsJHX/CV?node-id=0-1&p=f&t=6J5qdSIpFcFDSxSw-0
+### Webpage hyperlink
+https://polrocaudg.github.io/Hypermedia-project-Part-1-Pol-Roca-Villagra/
